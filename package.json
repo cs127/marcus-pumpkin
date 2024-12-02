@@ -1,0 +1,11 @@
+{
+	"name": "marcus-pumpkin",
+	"version": "0.0.0",
+	"description": "stupid markov chain bot for discord",
+	"main": "src/index.js",
+	"author": "cs127",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^14.16.3"
+	}
+}
